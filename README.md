@@ -73,8 +73,22 @@ From these we were able to draw conclusions that would help to know the importan
 
 
 
-## 5. Conclusions:
-* In free apps, the game category is the most demanding, and in paid apps Family, and Lifestyle apps are generating the highest revenue but because Family apps are already in excess and Lifestyle apps are quite a few therefore Lifestyle apps should be preferred to generate the maximum revenue and to avoid the market competition.
-* Genre-wise in the free apps category, communication apps are in demand, and in paid apps Action, arcade apps are the most popular.
-* In both, free and paid apps, the apps from the Everyone category are in high demand.
-* Dating, Maps & Navigation, and Video editing apps have the lowest rating, therefore there is a great opportunity for a quality app, and whole the market can be captured easily.
+
+##  5. Final Conclusion
+The app engagement and success can be expressed with the app’s total installs and the revenue it generating. 
+
+
+
+- The demand of free apps is higher than the paid apps, so you can give priority to free apps.
+- In free apps, the category of Communication, Social, Game, Productivity, and Tools will be the best choice to increase the app install.
+- In paid apps, the category of Game, Family, Photography, Personalization, and Tools will be the best choice to increase the app install.
+- In paid apps, the category of Lifestyle, Finance, Family, Game, Photography will be the best choice to increase the app Revenue.
+- In free apps, the genre of Communication, Social, Productivity, Photography and Tools will be the best choice to increase the app install.
+- In paid apps, the genre of Action, Action & Adventure, Arcade will be the best choice to increase the app Revenue.
+- In Free apps, the content rating of Everyone, and Teen will increase the app installs and in paid apps, the content rating of Everyone 10+, Mature 17+ will increase the app installs.
+- An quality app in the lowest rating apps genre or category like Dating, Maps & Navigation, Video players can give a fruitful result.
+- Apps like Helix Jump, Duolingo, Calorie Counter, Bowmasters, 10 Best foods for you, google photos, Bfit Workouts & Meal Planner have highest number of positive reviews.
+- The median size of paid apps is 9 MB, and the median price of paid app is $2. The median size of free app is 12 MB.
+- In top 100 revenue making apps, apps from the category Lifestyle, Finance, and Family have highest average revenue per app.
+- In top 100 revenue making apps, apps from the content rating Everyone, Everyone 10+  making highest total revenue but apps for Everyone 10+, Mature 17+ are very limited therefore the average revenue per app in content rating Everyone 10+, Mature 17+ is highest. These two category should be preferred.
+In top 100 revenue making apps, apps from the genre Arcade;Action & Adventure, Lifestyle, Finance have highest average revenue per app.
